@@ -2,6 +2,8 @@
 
 This project is a **Streamlit web application** that predicts and visualizes future item prices using a trained **LSTM (Long Short-Term Memory) deep learning model**. It analyzes historical price data and generates both **test predictions and future forecasts** for selected items.
 
+**This project was done as a team of 4.**
+
 ---
 
 ## 📌 Features
